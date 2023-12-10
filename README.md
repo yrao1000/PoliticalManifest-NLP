@@ -23,6 +23,6 @@ Regression : Used to predict a continuous value
 ## Possible Approach to follow for real world problems involving large amounts of data from differnt sources
 1. Using data pipeline gather data from multiple sources and preprocess it
 2. The data can then be broken down into particular segments using clustering algorithms
-3. Each segment can individually be analysed and possible converting into structured data
+3. Each segment can individually be analysed and possible converting into structured data (_using NER techniques used in notebook_)
 4. Supervised ML algorithms can then be applied to get deeper insights, which might have not been possible earlier since data was too spread out.
 
