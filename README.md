@@ -1,5 +1,3 @@
-# PoliticalManifest-NLP
-Analysis of Political Manifesto using NLP
 ## Detecting patterns from large datasets
 ### Clustering algorithms :
 These algorithms are helpful for analysing large amount of unstructured data such as texts collected from different sources. Clusters can help identify differnt groups, post which each group can be analysed with differnt and more precise techniques according to use case
@@ -26,3 +24,10 @@ Regression : Used to predict a continuous value
 3. Each segment can individually be analysed and possible converting into structured data (_using NER techniques used in notebook_)
 4. Supervised ML algorithms can then be applied to get deeper insights, which might have not been possible earlier since data was too spread out.
 
+### Ethical and Regulatory compliance 
+The entire stack(except GPT integration) described in the project uses open source well known techniques and algorithms. 
+This allows us to run it on-premises in a completely isolated environment, complying with all regulations.
+GPT can also be replaced by open source models such as LLaMa models, which will perform well in this case since the problems the model is solving are more narrow in scope, and the performance can further be improved by fine tuning.
+
+## Working Demo (refer to notebook in this repo)
+Analysis of Political Manifesto using NLP
