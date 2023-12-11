@@ -29,5 +29,5 @@ The entire stack(except GPT integration) described in the project uses open sour
 This allows us to run it on-premises in a completely isolated environment, complying with all regulations.
 GPT can also be replaced by open source models such as LLaMa models, which will perform well in this case since the problems the model is solving are more narrow in scope, and the performance can further be improved by fine tuning.
 
-## Working Demo (refer to notebook in this repo)
+## Working Demo (refer to [notebook](https://github.com/yrao1000/PoliticalManifest-NLP/blob/main/notebook.ipynb) in this repo)
 Analysis of Political Manifesto using NLP
