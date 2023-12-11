@@ -31,3 +31,4 @@ GPT can also be replaced by open source models such as LLaMa models, which will 
 
 ## Working Demo (refer to [notebook](https://github.com/yrao1000/PoliticalManifest-NLP/blob/main/notebook.ipynb) in this repo)
 Analysis of Political Manifesto using NLP
+Here we have taken Raw pdf files from internet, destructured them and then extracted insights from them using NLP
